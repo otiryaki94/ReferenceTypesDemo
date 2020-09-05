@@ -1,0 +1,13 @@
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.exe
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.deps.json
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.runtimeconfig.json
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.runtimeconfig.dev.json
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.dll
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\bin\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.pdb
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.AssemblyInfo.cs
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.dll
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.pdb
+C:\Users\Dev\source\repos\ReferenceTypesDemo\ReferenceTypes\ReferenceTypes.ConsoleUI\obj\Debug\netcoreapp3.1\ReferenceTypes.ConsoleUI.genruntimeconfig.cache
